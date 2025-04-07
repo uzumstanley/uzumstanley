@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated banner" width="100%" />
+</p>
+
 # 👋 Uzum Stanley
 
 **`|| DATA SCIENTIST || MACHINE LEARNING || MLOps Deployment || CLOUD COMPUTING ||`**  
@@ -34,9 +38,9 @@ Hi there! I’m Uzum Stanley — a passionate Data Scientist and ML/MLOps Engine
 
 ### 📈 GitHub Stats
 
-![Uzum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uzumstanley&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzumstanley&layout=compact&theme=dark&hide_border=true)
+![Uzum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uzumstanley&show_icons=true&theme=default&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzumstanley&layout=compact&theme=default&hide_border=true)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=uzumstanley&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
@@ -51,4 +55,3 @@ Hi there! I’m Uzum Stanley — a passionate Data Scientist and ML/MLOps Engine
 ### 🚀 Motto
 
 > "Building systems that learn from data and improve the world."
-
