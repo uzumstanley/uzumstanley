@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated banner" width="100%" />
 </p>
 
-# 👋 Uzum Stanley
+# 👋 Stanley Uzum
 
 **`|| DATA SCIENTIST || MACHINE LEARNING || MLOps Deployment || CLOUD COMPUTING ||`**  
 **`|| DATA ENGINEER || AI FOR TRANSPORTATION SYSTEMS ||`**
