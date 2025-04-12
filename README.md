@@ -1,3 +1,11 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&color=000000&width=435&lines=Hello!+My+name+is+Stanley+Uzum;Welcome+to+my+Github+Page)](https://git.io/typing-svg)
+<br />
+##### MOTTO
+
+> Brick by brick, greatness is built.
+> 
+<div align="center">
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated banner" width="100%" />
 </p>
