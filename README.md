@@ -2,7 +2,7 @@
 <br />
 ##### MOTTO
 
-> "Building systems that learn from data and improve the world."
+> Building systems that learn from data and improve the world.
 > 
 <div align="center">
 
