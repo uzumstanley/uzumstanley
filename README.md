@@ -2,7 +2,7 @@
 <br />
 ##### MOTTO
 
-> Brick by brick, greatness is built.
+> "Building systems that learn from data and improve the world."
 > 
 <div align="center">
 
@@ -90,8 +90,3 @@ Hi there! I’m Uzum Stanley — a passionate Data Scientist and ML/MLOps Engine
 📍 London, United Kingdom  
 💼 Actively seeking impactful ML/MLOps/DS roles
 
----
-
-### 🚀 Motto
-
-> "Building systems that learn from data and improve the world."
