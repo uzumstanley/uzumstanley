@@ -86,10 +86,6 @@ Hi there! I’m Uzum Stanley — a passionate Data Scientist and ML/MLOps Engine
 
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=uzumstanley&hide_border=true&border_radius=4.7)](https://github.com/uzumstanley)
 
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzumstanley&theme=github" alt="GitHub Activity Graph" />
-</p>
-
 
 ### 📫 Let's Connect
 
