@@ -9,12 +9,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated banner" width="100%" />
 </p>
-
-# 👋 Stanley Uzum
-
-**`|| DATA SCIENTIST || MACHINE LEARNING || MLOps Deployment || CLOUD COMPUTING ||`**  
-**`|| DATA ENGINEER || AI FOR TRANSPORTATION SYSTEMS ||`**
-
 ---
 
 Hi there! I’m Uzum Stanley — a passionate Data Scientist and ML/MLOps Engineer based in London. I thrive at the intersection of machine learning, data engineering, and intelligent systems. With a strong focus on real-world impact, I’ve built end-to-end solutions for traffic prediction, global energy analysis, and AI applications.
