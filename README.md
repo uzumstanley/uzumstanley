@@ -1,39 +1,20 @@
+## 🏅 Custom Achievements  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/⚡-QuickDraw-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/✨-Fancy%20Stuff-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌟-Star%20Gazer-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🛠️-Builder-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖-AI%20Innovator-critical?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📈-Data%20Wizard-blue?style=for-the-badge" />
+</p>
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&color=000000&width=435&lines=Hello!+My+name+is+Stanley+Uzum;Welcome+to+my+Github+Page)](https://git.io/typing-svg)
 <br />
 
 ##### MOTTO
-> Building systems that learn from data and improve the world.
-
----
-
-<div align="center">
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated banner" width="100%" />
-</p>
-
-### 🏆 Achievements & Badges
-
-![GitHub followers](https://img.shields.io/github/followers/uzumstanley?label=Followers&style=for-the-badge)  
-![GitHub stars](https://img.shields.io/github/stars/uzumstanley?label=Stars&style=for-the-badge)  
-![Profile Views](https://komarev.com/ghpvc/?username=uzumstanley&style=for-the-badge&color=blue)  
-![Commit Activity](https://img.shields.io/github/commit-activity/m/uzumstanley/Machine-Learning-Features-Selection?style=for-the-badge)  
-![GitHub User's stars](https://img.shields.io/github/stars/uzumstanley?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow)  
-
-### 🥇 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=uzumstanley&theme=radical&margin-w=15&margin-h=15&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-### ⚡ Quick Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=uzumstanley&theme=highcontrast&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uzumstanley&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzumstanley&layout=compact&theme=radical&hide_border=true)
-
-### 🎯 Fun Badges
-![Work in Progress](https://img.shields.io/badge/🚧%20Work%20In%20Progress-orange?style=for-the-badge)  
-![Code Warrior](https://img.shields.io/badge/⚔️-Code%20Warrior-critical?style=for-the-badge)  
-![QuickDraw](https://img.shields.io/badge/⚡-QuickDraw-yellow?style=for-the-badge)  
-![Fancy Stuff](https://img.shields.io/badge/✨-Fancy%20Stuff-blueviolet?style=for-the-badge)  
-![Open Source Lover](https://img.shields.io/badge/💡-Open%20Source%20Lover-brightgreen?style=for-the-badge)  
+> Building systems that learn from data and improve the world. 
 
 </div>
 Hi there! I’m Stanley Ekene Uzum — a passionate Data Scientist and ML/MLOps Engineer based in London. I thrive at the intersection of machine learning, data engineering, and intelligent systems. With a strong focus on real-world impact, I’ve built end-to-end solutions for traffic prediction, global energy analysis, and AI applications.
