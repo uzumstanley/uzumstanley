@@ -1,14 +1,3 @@
-## 🏅 Custom Achievements  
-
-<p align="left">
-  <img src="https://img.shields.io/badge/⚡-QuickDraw-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/✨-Fancy%20Stuff-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌟-Star%20Gazer-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🛠️-Builder-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤖-AI%20Innovator-critical?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📈-Data%20Wizard-blue?style=for-the-badge" />
-</p>
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&color=000000&width=435&lines=Hello!+My+name+is+Stanley+Uzum;Welcome+to+my+Github+Page)](https://git.io/typing-svg)
 <br />
