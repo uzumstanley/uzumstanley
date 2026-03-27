@@ -6,7 +6,7 @@
 > Building systems that learn from data and improve the world. 
 
 </div>
-Hi there! I’m Stanley Ekene Uzum — a passionate Data Scientist and ML/MLOps Engineer based in London. I thrive at the intersection of machine learning, data engineering, and intelligent systems. With a strong focus on real-world impact, I’ve built end-to-end solutions for traffic prediction, global energy analysis, and AI applications.
+Hi there! I’m Stanley Ekene Uzum — a passionate Data Scientist, AI and ML/MLOps Engineer based in London. I thrive at the intersection of machine learning, data engineering, and artificial intelligent systems. With a strong focus on real-world impact, I’ve built end-to-end solutions for traffic prediction, global energy analysis, ML systems , Data Engineering and AI applications.
 
 ## 💻 **Key Technologies**
 
